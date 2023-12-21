@@ -9,6 +9,11 @@ export const Header = () =>{
                     <div>Home</div>
                     <div>About</div>
                 </div>
+                <div className="flex items-center justify-center space-x-4">
+                    <div>cart</div>
+                    <div>Log In</div>
+                    <div>Sing Up</div>
+                </div>
             </div>
         </nav>
     )
